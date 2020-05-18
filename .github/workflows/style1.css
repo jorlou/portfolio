@@ -1,0 +1,46 @@
+*
+{
+	background-color: #92AEEF;
+  	margin: 0px;
+  }
+  section
+  {border: solid inset;
+  	border-color: #DA94CA;
+  	border-radius: 10px 5px 10px 5px;
+  	box-shadow: }
+  .btn
+  {
+  	background-color: #FFAEEF;
+  	font size 1.5em;
+  	text-decoration-color: white;
+  	font-family: monospace;
+  	font
+  	padding: 5px;
+  	border: 3px;
+  	border-radius: 5px
+  	box-shadow: 7px 7px 7px 7px;}
+  }
+h1
+{
+	border: 3px green groove;
+	border-radius: 10px 5px 10px 5px;
+	text-shadow: #000000 3px 3px 0px;
+	text-align: center;}
+	h2
+	{text-decoration: underline;}
+h6
+{
+	text-align: left;
+	border: 3px green groove;
+	border radius: 10px 5px 10px 5px;
+	width: 300px;
+}
+body
+{
+	text-align: center;
+	{
+
+		}
+
+	}
+}
